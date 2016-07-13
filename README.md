@@ -1,5 +1,7 @@
 # OceanProject - xatBot
 
+![Build Status](https://travis-ci.org/PiR-B-/OceanProject-Bot.svg?branch=master)
+
 ## What do i need to run it?
 
 - PHP7

@@ -21,7 +21,7 @@ Or better :
 - docker-php-ext-install sockets
 - php dev.php
 
-Or install docker-compose
+Or install docker-compose, then : docker-compose run --rm php
 
 ## I want to contribute, how do I?
 
